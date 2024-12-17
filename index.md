@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Malik's Cyber Security Projects
+[Linkedin](https://www.linkedin.com/in/maliktambweibarra/).
 ## Building a SOC + Honeynet in Azure (Live Traffic)
 Constructed a Honeynet SOC in Microsoft Azure to capture and analyze security logs using Microsoft Sentinel and KQL. By comparing metrics before and after applying NIST SP 800-53 security controls, the project achieved a 99% reduction in Linux events and 100% elimination of malicious traffic and security incidents. This demonstrates the effectiveness of hardening tactics such as NSG rules, private endpoints, and built-in firewalls in securing cloud environments.
 [Link to Building a SOC+Honeynet in Azure(Live Traffic) Project](https://github.com/MalikCyberDaily/Azure-Honeynet-SOC).
