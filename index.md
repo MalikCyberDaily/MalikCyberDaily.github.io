@@ -11,11 +11,18 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Building a SOC + Honeynet in Azure (Live Traffic)
-[Link to another page](./https://github.com/MalikCyberDaily/Azure-Honeynet-SOC).
+There should be whitespace between paragraphs.
+[Link to Building a SOC+Honeynet in Azure(Live Traffic) Project](./https://github.com/MalikCyberDaily/Azure-Honeynet-SOC).
+
+
 # Creating-Azure-Honeypot
-[Link to another page](./https://github.com/MalikCyberDaily/Creating-Azure-Honeypot/tree/main).
+There should be whitespace between paragraphs.
+[Link to Creating Azure Honeypot Lab](./https://github.com/MalikCyberDaily/Creating-Azure-Honeypot/tree/main).
+
+
 # AWS Cloud Cybersecurity Homelab Red/Blue Team
-[Link to another page](./https://github.com/MalikCyberDaily/CyberHomeLab/tree/main).
+There should be whitespace between paragraphs.
+[Link to AWS Cloud CyberSecurity Homelab Red/Blue Team](./https://github.com/MalikCyberDaily/CyberHomeLab/tree/main).
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
