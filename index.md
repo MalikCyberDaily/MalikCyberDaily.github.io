@@ -11,17 +11,17 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Building a SOC + Honeynet in Azure (Live Traffic)
-There should be whitespace between paragraphs.
+Built a Honeynet SOC in Microsoft Azure to capture and analyze live traffic. Using Microsoft Sentinel and KQL (Kusto Query Language), logs were aggregated into a Log Analytics Workspace to monitor security events, syslogs, and malicious activity. The environment was initially left insecure to attract attackers, resulting in over 1,700 malicious flows and multiple failed authentication attempts. After implementing NIST 800-53 security controls, including hardened NSGs, firewalls, and private endpoints, security incidents were reduced by 100%, showcasing effective hardening. This project demonstrates robust incident detection, monitoring, and hardening within a cloud-based SIEM environment.
 [Link to Building a SOC+Honeynet in Azure(Live Traffic) Project](./https://github.com/MalikCyberDaily/Azure-Honeynet-SOC).
 
 
 # Creating-Azure-Honeypot
-There should be whitespace between paragraphs.
+In this project, two Azure virtual machines (Windows and Linux) were deployed and configured as a honeypot by disabling firewalls and creating NSG rules to allow all inbound connections. This setup intentionally exposed the environment to attract malicious traffic for analysis. The configuration serves as a foundational step to observe and analyze attacker behavior within an insecure cloud environment.
 [Link to Creating Azure Honeypot Lab](./https://github.com/MalikCyberDaily/Creating-Azure-Honeypot/tree/main).
 
 
 # AWS Cloud Cybersecurity Homelab Red/Blue Team
-There should be whitespace between paragraphs.
+In this project, a Red/Blue Team Cybersecurity Homelab was built in AWS using a Virtual Private Cloud (VPC) with Kali Linux (attacker), Windows 10 (vulnerable client), and Ubuntu (security tools). Splunk was configured on the security tools VM to collect and analyze logs from the Windows machine via the Universal Forwarder, enabling security monitoring and event analysis. Additionally, Tenable Nessus was deployed on Ubuntu to perform vulnerability scanning. This environment facilitates Red Team attack simulations and Blue Team defense strategies, providing a controlled cloud-based lab for hands-on cybersecurity training.
 [Link to AWS Cloud CyberSecurity Homelab Red/Blue Team](./https://github.com/MalikCyberDaily/CyberHomeLab/tree/main).
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
