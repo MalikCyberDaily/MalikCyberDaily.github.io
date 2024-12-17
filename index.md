@@ -1,3 +1,26 @@
+<h1>Hi, I'm Malik! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Cloud Cyber Homelab Red/Blue Team</b>
+  - [Azure Honeynet SOC Lab](https://github.com/MalikCyberDaily/Azure-Honeynet-SOC)
+  - [AWS Cloud Cyber HomeLab Red/Blue Team](https://github.com/MalikCyberDaily/CyberHomeLab/tree/main)
+  - [Creating Azure Honeypot](https://github.com/MalikCyberDaily/Creating-Azure-Honeypot/tree/main)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Malik | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Malik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Malik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com
+[youtube]: https://www.youtube.com
+[instagram]: https://www.instagram.com
+[linkedin]: https://www.linkedin.com/in/maliktambweibarra/
+
 ---
 layout: default
 ---
